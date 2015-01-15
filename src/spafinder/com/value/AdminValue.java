@@ -5,8 +5,8 @@ public class AdminValue {
 	public String BusinessEmailValue				= "qa.spa29@live.com";
 	
 	
-	public String adminUserNameValue 				=	"qa.test";
-	public String adminPassValue					=	"Finderspa1";
+	public String adminUserNameValue 				=	"XXXXX"; //UID
+	public String adminPassValue					=	"XXXXX"; //Pass
 	
 	public String BusinessFNameValue				= "Javed";
 	public String BusinessLnameValue				= "Chowdry";
