@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SpaFinder.ca]">
+  <test name="UK G1 Checkout using Gift Card(failed)">
+    <classes>
+      <class name="spafinder.ca.G1_ExistingUserUsingCCinCA">
+        <methods>
+          <include name="closeURL"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.ca.G1_ExistingUserUsingCCinCA -->
+      <class name="spafinder.ca.G1_ExistingUserUsingGiftCardInCA">
+        <methods>
+          <include name="closeURL"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.ca.G1_ExistingUserUsingGiftCardInCA -->
+      <class name="spafinder.com.G1usingGC">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.com.G1usingGC -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="G1AlreadyMemberUsingGC_UK"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.com.G1AlreadyMemberUSA">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.com.G1AlreadyMemberUSA -->
+    </classes>
+  </test> <!-- UK G1 Checkout using Gift Card(failed) -->
+  <test name="G1_Existing user using Gift Card in USA(failed)">
+    <classes>
+      <class name="spafinder.ca.G1_ExistingUserUsingCCinCA">
+        <methods>
+          <include name="closeURL"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.ca.G1_ExistingUserUsingCCinCA -->
+      <class name="spafinder.ca.G1_ExistingUserUsingGiftCardInCA">
+        <methods>
+          <include name="closeURL"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.ca.G1_ExistingUserUsingGiftCardInCA -->
+      <class name="spafinder.com.G1usingGC">
+        <methods>
+          <include name="G1AlreadyMemberUsingGiftCardInUSA"/>
+          <include name="tearDown"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.com.G1usingGC -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.com.G1AlreadyMemberUSA">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- spafinder.com.G1AlreadyMemberUSA -->
+    </classes>
+  </test> <!-- G1_Existing user using Gift Card in USA(failed) -->
+</suite> <!-- Failed suite [SpaFinder.ca] -->

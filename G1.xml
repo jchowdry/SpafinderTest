@@ -1,0 +1,42 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SpaFinder.ca">
+
+
+<test name="CA G1 Existing User Using CC and GC">
+    <classes>
+        <class name="spafinder.ca.G1_ExistingUserUsingCCinCA" ></class>  
+    </classes>
+</test>
+
+<test name="CA G1 Existing User Using Gift Card">
+    <classes>
+        <class name="spafinder.ca.G1_ExistingUserUsingGiftCardInCA" ></class>  
+    </classes>
+</test>
+
+<test name="UK Existing G1 Checkout Using CC">
+    <classes>
+        <class name="spafinder.co.uk.G1AlreadyMemberUK" ></class>  
+    </classes>
+</test>
+
+<test name="UK G1 Checkout using Gift Card">
+    <classes>
+        <class name="spafinder.co.uk.G1usingGCinUK" ></class>  
+    </classes>
+</test>
+<test name="G1_Existing user using Credit Card in USA">
+    <classes>
+        <class name="spafinder.com.G1AlreadyMemberUSA" ></class>  
+    </classes>
+</test>
+
+<test name="G1_Existing user using Gift Card in USA">
+    <classes>
+        <class name="spafinder.com.G1usingGC" ></class>  
+    </classes>
+</test>
+
+
+</suite>

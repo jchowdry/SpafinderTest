@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SpaFinder.co.uk]">
+  <test name="UK Classic Existing User With Multiple Cards And Promo(failed)">
+    <classes>
+      <class name="spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.co.uk.IGC_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.MBOusingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCinUK -->
+      <class name="spafinder.co.uk.MBOusingGCandCCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCandCCinUK -->
+      <class name="spafinder.co.uk.Classic_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.IGC_Print_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="ClassicExistingUserWithMultipleCardsAndPromoInUK"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK -->
+      <class name="spafinder.co.uk.MboMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MboMemberUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsingPromoInUK -->
+    </classes>
+  </test> <!-- UK Classic Existing User With Multiple Cards And Promo(failed) -->
+  <test name="UK IGC Email Existing User With Multiple Cards And Promo(failed)">
+    <classes>
+      <class name="spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="IGC_Email_UserWithMultipleCardsAndPromoUK"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.co.uk.IGC_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.MBOusingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCinUK -->
+      <class name="spafinder.co.uk.MBOusingGCandCCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCandCCinUK -->
+      <class name="spafinder.co.uk.Classic_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.IGC_Print_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK -->
+      <class name="spafinder.co.uk.MboMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MboMemberUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsingPromoInUK -->
+    </classes>
+  </test> <!-- UK IGC Email Existing User With Multiple Cards And Promo(failed) -->
+  <test name="UK IGC Print Guest(failed)">
+    <classes>
+      <class name="spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.co.uk.IGC_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.MBOusingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCinUK -->
+      <class name="spafinder.co.uk.MBOusingGCandCCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCandCCinUK -->
+      <class name="spafinder.co.uk.Classic_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.IGC_Print_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="IGC_PrintGuestInUK"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsingPromoInUK -->
+      <class name="spafinder.co.uk.MboMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MboMemberUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsingPromoInUK -->
+    </classes>
+  </test> <!-- UK IGC Print Guest(failed) -->
+  <test name="UK MBO using GC Test(failed)">
+    <classes>
+      <class name="spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.co.uk.IGC_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.MBOusingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="MBOusingGC_inUK"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCinUK -->
+      <class name="spafinder.co.uk.MBOusingGCandCCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCandCCinUK -->
+      <class name="spafinder.co.uk.Classic_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.IGC_Print_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsingPromoInUK -->
+      <class name="spafinder.co.uk.MboMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MboMemberUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsingPromoInUK -->
+    </classes>
+  </test> <!-- UK MBO using GC Test(failed) -->
+  <test name="UK MBO using GC and Gift Card Test(failed)">
+    <classes>
+      <class name="spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.co.uk.IGC_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.MBOusingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCinUK -->
+      <class name="spafinder.co.uk.MBOusingGCandCCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="MBOMemberUsingGCAandCCinUK"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCandCCinUK -->
+      <class name="spafinder.co.uk.Classic_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.IGC_Print_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsingPromoInUK -->
+      <class name="spafinder.co.uk.MboMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MboMemberUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsingPromoInUK -->
+    </classes>
+  </test> <!-- UK MBO using GC and Gift Card Test(failed) -->
+  <test name="UK G1 Checkout using Gift Card(failed)">
+    <classes>
+      <class name="spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Email_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.G1AlreadyMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1AlreadyMemberUK -->
+      <class name="spafinder.co.uk.IGC_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.MBOusingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCinUK -->
+      <class name="spafinder.co.uk.MBOusingGCandCCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MBOusingGCandCCinUK -->
+      <class name="spafinder.co.uk.Classic_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_ExistingUserWithMultipleCardsAndPromoUK -->
+      <class name="spafinder.co.uk.G1usingGCinUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="G1AlreadyMemberUsingGC_UK"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.G1usingGCinUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsing3DVisaCardInUK -->
+      <class name="spafinder.co.uk.IGC_GuestUsing3DVisaInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_GuestUsing3DVisaInUK -->
+      <class name="spafinder.co.uk.Classic_GuestUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_GuestUsingPromoInUK -->
+      <class name="spafinder.co.uk.IGC_Print_GuestInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_Print_GuestInUK -->
+      <class name="spafinder.co.uk.IGC_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.IGC_ExistingUserUsingPromoInUK -->
+      <class name="spafinder.co.uk.MboMemberUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.MboMemberUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserWithMultipleCardsAndPromoInUK -->
+      <class name="spafinder.co.uk.Classic_ExistingUserUsingPromoInUK">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="closeURL"/>
+        </methods>
+      </class> <!-- spafinder.co.uk.Classic_ExistingUserUsingPromoInUK -->
+    </classes>
+  </test> <!-- UK G1 Checkout using Gift Card(failed) -->
+</suite> <!-- Failed suite [SpaFinder.co.uk] -->
